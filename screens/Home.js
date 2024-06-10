@@ -1,6 +1,5 @@
 import { View, Text } from "react-native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import { NavigationContainer } from "@react-navigation/native";
 
 import Profile from "./Profile";
 import IconButton from "../components/IconButton";
